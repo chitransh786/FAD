@@ -1,0 +1,6 @@
+{
+  "users": [
+    {"username": "user1", "user_id": "001", "promo_messages": ["Check out our new product!", "Visit our website for exciting offers."], "balance": 100.00,"time_interval": 30},
+    {"username": "user1", "user_id": "001", "promo_messages": ["Check out our new product!", "Visit our website for exciting offers."], "balance": 100.00,"time_interval": 30},
+  ]
+}
