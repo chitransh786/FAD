@@ -1,2 +1,0 @@
-highrise-bot-sdk==23.3.0
-pip==23.3.2
