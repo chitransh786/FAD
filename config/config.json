@@ -1,1 +1,70 @@
-
+{
+    "authorization": {
+        "room": "65a4a9ad7276e68125e6334d",
+        "token": "540466f70dd79c85c685b1d76596a63222f4ece94b99ff47e43c8c213d3f740d"
+    },
+    "command_permissions": {
+        "come": true,
+        "emoted": true,
+        "jk&pickup": false,
+        "equip": true,
+        "goback": true,
+        "setpos": true,
+        "uptime": true,
+        "fly": true,
+        "follow": true,
+        "info": true,
+        "reload": true,
+        "tipall": true,
+        "kick": true,
+        "mute": true,
+        "ban": true
+    },
+    "loggers": {
+        "SessionMetadata": true,
+        "cmdChat": false,
+        "chat": false,
+        "message": false,
+        "whispers": false,
+        "joins": false,
+        "leave": false,
+        "tips": false,
+        "emotes": false,
+        "reactions": false,
+        "userMovement": false
+    },
+    "config": {
+        "prefix": "",
+        "botID": "648dd3c1e0b73c16c54fc494",
+        "botName": "pypy123",
+        "ownerName": "PyWiz",
+        "roomName": "FIND A DATE \u2764",
+        "promo_msg": "",
+        "ownerpromo_msg": "For buying bots PM @882626 or PM me on discord Nischay#2361",
+        "extra_msg": "",
+        "coordinates": {
+            "x": 17.5,
+            "y": 8.5,
+            "z": 22.5,
+            "facing": "BackRight"
+        },
+        "floor1": {
+            "x": 7.5,
+            "y": 1.0,
+            "z": 4.5,
+            "facing": "FrontRight"
+        },
+        "floor2": {
+            "x": 8.5,
+            "y": 9.5,
+            "z": 5.5,
+            "facing": "FrontRight"
+        },
+        "floor3": {
+            "x": 7.5,
+            "y": 16.5,
+            "z": 5.5,
+            "facing": "FrontRight"
+        }
+    }
+}
